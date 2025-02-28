@@ -31,7 +31,7 @@ export default function SeriesScreen() {
         </Text>
       </View>
 
-      <TouchableOpacity style={styles.videoButton} onPress={() => openLink("https://www.youtube.com/watch?v=dQw4w9WgXcQ")}>
+      <TouchableOpacity style={styles.videoButton} onPress={() => openLink("https://www.youtube.com/watch?v=QRUO2TBFTvE")}>
         <Text style={styles.videoButtonText}>Watch a Short Video</Text>
       </TouchableOpacity>
 
